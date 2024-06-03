@@ -10,7 +10,8 @@ Welcome to oxrse_ci_training's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+.. automodule:: ci_course
+   :members:
 
 Indices and tables
 ==================
