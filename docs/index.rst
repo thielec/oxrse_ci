@@ -13,11 +13,6 @@ Welcome to oxrse_ci_training's documentation!
 .. automodule:: ci_course
    :members:
 
-.. autosummary::
-   :toctree: _autosummary
-
-   ci_course.functionality
-
 Indices and tables
 ==================
 
